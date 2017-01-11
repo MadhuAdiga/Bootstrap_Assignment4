@@ -1,0 +1,122 @@
+.navbar-inverse{
+  background:#000000;
+  border-radius:0px;
+  min-height:60px;
+  border-bottom:thick solid #AE7F49 !important;
+  border-color:#AE7F49 !important;
+}
+
+.logo{
+  font-family:'Baloo Bhai';
+  color:#FFFFFF;
+  font-size:xx-large;
+  margin-top:5px;
+}
+
+nav .navbar-nav a{
+  font-family:'Righteous';
+  color:#AE7F49 !important;
+}
+
+nav .navbar-nav a:hover{
+  font-family:'Righteous';
+  color:#AE7F49 !important;
+  margin-top:-3px;
+}
+
+.navitem:hover{
+  background:transparent !important;
+  background:#000000;
+}
+
+.navitem:active{
+  background:transparent !important;
+  background:#000000 !important;
+}
+
+#about{
+  background-color:#5A2B61;
+  border-bottom:solid 6px #ddad7f;
+  padding:35px;
+  margin-top:60px;
+  max-width:1000px;
+  margin:auto;
+}
+
+#logoimage{
+  margin:auto;
+  padding:20px;
+}
+
+ul.nav.navbar-nav.navbar-right{
+  margin-top:5px;
+}
+
+h1#welcome{
+  font-family:'Righteous';
+  color:#AE7F49;
+  text-align:center;
+  font-size:3em;
+}
+
+p{
+  text-align:center;
+  font-family:'Raleway';
+  color:#AE7F49;
+  padding:8px;
+}
+
+li.active.navitem{
+  background-color:transparent !important;
+}
+
+#aboutheading{
+  font-family:'Righteous';
+  color:#D6BE89;
+  font-size:3em;
+  padding-top:30px;
+  padding-bottom:30px;
+  margin:auto;
+  margin-top:50px;
+}
+
+h1#workheading{
+  font-family:'Righteous';
+  color:#D6BE89;
+  font-size:3em;
+  padding-top:30px;
+  padding-bottom:30px;
+  margin-top:40px;
+}
+
+img.projectimg{
+  border-right:solid 6px #dea528;
+  border-radius:4px;
+  padding-top:30px;
+  min-height:400px;
+  min-width:600px;
+}
+
+#workcontainer .row{
+  padding:40px;
+}
+
+hr{
+  background-color:#DDAD7F;
+  height:1.5px;
+}
+
+p.menuitem{
+  font-family:'Baloo Bhai';
+  margin-top:200px;
+  font-size:2em;
+  border:solid #000000;
+  display:inline-block;
+}
+
+hr#linebreak{
+  color:black;
+  min-width:5px;
+  padding-top:40px;
+}
+
